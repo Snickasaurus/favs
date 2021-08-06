@@ -26,6 +26,7 @@
 ## O
 * [OTRF](https://github.com/OTRF) - Open Threat Research Forge
 ## P
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypasses for Web Application Security
 * [portspoof](https://github.com/drk1wi/portspoof) - Enhance OS security by spoofing TCP port signatures
 ## Q
 ## R
