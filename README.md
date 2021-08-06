@@ -30,9 +30,11 @@
 ## R
 ## S
 * [Shodan](https://www.shodan.io/) - Constantly scans entire web to document internet-exposed devices
+* [Sof-ELK](https://github.com/philhagen/sof-elk) - SOF-ELK® is a platform focused on the typical needs of computer forensic investigators/analysts
 * [sui](https://github.com/jeroenpardon/sui) - Startpage for your server and/or new tab page
 ## T
 * [Talos](https://talosintelligence.com/) - Cisco Email Traffic Overview
+* [TBOSK](https://github.com/trimstray/the-book-of-secret-knowledge) - The Book of Secret Knowledge
 ## U
 ## V
 ## W
