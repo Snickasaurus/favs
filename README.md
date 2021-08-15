@@ -21,6 +21,7 @@
 * [joesandbox](https://www.joesandbox.com) - Automated Malware Ananlysis
 ## K
 ## L
+* [LaZagne](https://github.com/AlessandroZ/LaZagne) - Retrieve passwords stored on Windows
 ## M
 * [Meerkat](https://github.com/TonyPhipps/Meerkat) - Collection of PowerShell tools for IR
 ## N
